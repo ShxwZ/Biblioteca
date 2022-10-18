@@ -268,24 +268,6 @@ public class Biblioteca {
 		}
 		return null;
 	}
-	
-	/*
-	 * Print one type of articles no available
-	 * @param option (1) Revistas (2) Pasatiempo (3) Libro
-
-	public void printTypeNoAvailable(int option) {
-		List<Articulo> noAvaibleArticlesTemp = new ArrayList<>();
-		booksNoAvailable.forEach((k,v)->{
-			noAvaibleArticlesTemp.add(k);
-		});
-		getAllTypeBook(option,noAvaibleArticlesTemp).forEach(b ->{
-			if (b instanceof Reservar) {
-				System.out.println(((Reservar)b).toString()+ "\nCodigo socio: " + booksNoAvailable.get(b));
-			}else {
-				System.out.println(((Alquilar)b).toString()+ "\nCodigo socio: " + booksNoAvailable.get(b));
-			}
-		});
-	}*/
 
 	/**
 	 * Print one type of articles rented or reserved
