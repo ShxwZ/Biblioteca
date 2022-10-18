@@ -1,7 +1,8 @@
-# Library System - NO DATABASE
+# Library System - NO DATABASE 📚
 
-### This is a simple library system in java from command line.
-#### Language: Spanish
+#### Hi, welcome 👋 this is a simple library system in java from command line 💻.
+#### I hope this help someone with their code :) 
+#### Language: Spanish ✔
 
 ## Features
 - Register articles (Magazines, Puzzle books n Books)
@@ -14,4 +15,10 @@
 - View articles rented
 - Import articles by code (Examples in main class)
 
+
+# ⬇ Check out 👀
+## Reserve book example:
+![](https://github.com/ShxwZ/Biblioteca/blob/master/ResourcesREADME/ReserveArticles.gif)
+## View all articles example:
+![](https://github.com/ShxwZ/Biblioteca/blob/master/ResourcesREADME/ViewArticles.gif)
 
