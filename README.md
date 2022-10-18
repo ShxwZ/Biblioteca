@@ -2,9 +2,11 @@
 
 #### Hi, welcome 👋 this is a simple library system in java from command line 💻.
 #### I hope this help someone with their code :) 
-#### Language: Spanish ✔
+#### Language: Only Spanish ✔
+#### Methods documented in english ✔
+#### Only java ☕
 
-## Features
+## Features ⚙
 - Register articles (Magazines, Puzzle books n Books)
 - View all types of articles
 - Rent an article
@@ -17,8 +19,8 @@
 
 
 # ⬇ Check out 👀
-## Reserve book example:
+### Reserve book example:
 ![](https://github.com/ShxwZ/Biblioteca/blob/master/ResourcesREADME/ReserveArticles.gif)
-## View all articles example:
+### View all articles example:
 ![](https://github.com/ShxwZ/Biblioteca/blob/master/ResourcesREADME/ViewArticles.gif)
 
