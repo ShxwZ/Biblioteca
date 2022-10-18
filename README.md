@@ -1,6 +1,6 @@
 # Library System - NO DATABASE 📚
 
-#### Hi, welcome 👋 this is a simple library system in java from command line 💻.
+#### Hi 👋, this is a simple library system in java from command line 💻.
 #### I hope this help someone with their code :) 
 #### Language: Only Spanish ✔
 #### Methods documented in english ✔
