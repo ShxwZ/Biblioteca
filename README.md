@@ -17,6 +17,10 @@
 - View articles rented
 - Import articles by code (Examples in main class)
 
+## Clone with git 📎
+```
+git clone https://github.com/ShxwZ/Biblioteca.git
+```
 
 # ⬇ Check out 👀
 ### Reserve book example:
